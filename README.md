@@ -13,6 +13,13 @@ or log a ticket with us by emailing unityads-support@unity3d.com
 Unity Ads SDK Release Notes
 ===========================
 
+v2.0.5 October 3rd, 2016
+------------------------
+
+- Fix iOS 10 network info fetching
+- Always send finish callback in all error situations
+- Send placement ID in correct format
+
 v1.5.6 January 5th, 2016
 ------------------------
 
